@@ -4,4 +4,4 @@ Daniels fully responsive website using:
  -Bootstrap 
  -JS
 
-Live demo:  https://mohamed-shahata.github.io/DANIELS/
+Live demo:  https://Mohamed-A-Ibrahim282.github.io/DANIELS/
